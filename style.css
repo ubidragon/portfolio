@@ -1,0 +1,28 @@
+medium-image{
+  margin-top: 60px;
+    padding-top = 60px;
+} 
+
+body{
+  background-color : #3498DB;
+}
+
+#boton1{
+   display: block;
+
+}
+h1 {
+  font-family: Candara, Calibri, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+  font-size: 34px;
+  font-style: italic;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 27px;
+  color: #ecf0f1;
+  background-img: "http://silicium-trading.com/wp-content/uploads/2015/02/cpu.jpg";
+}
+
+#relleno{
+  font-size: 16px;
+  padding: 50px 80px 70px 90px;
+}
