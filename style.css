@@ -1,10 +1,10 @@
 medium-image{
   margin-top: 60px;
-    padding-top = 60px;
+    padding-top : 60px;
 } 
 
 html{
-  margin: 20 60 20 60;
+  margin: 20px 60px 20px 60px;
 }
 
 /*#body{
@@ -33,22 +33,16 @@ html{
 
 }
 .Contacto{
-  font-size: 10;
+  font-size: 10px;
 }
 
-.relleno1{
+.lenguajes{
   font-size: 12px;
   
-  margin-left: 40;
-}
-.relleno2{
-  font-size: 12px;
-  
-  margin-right: 40;
- 
+  margin-left: 40px;
 }
 
 .navBarButtons{
   /*padding-right: 400px;*/
-  padding-right: 40;
+  padding-right: 40px;
 }
